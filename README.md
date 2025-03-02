@@ -63,3 +63,5 @@ This Java program demonstrates basic file handling operations, including reading
 
 This utility demonstrates essential file handling operations in Java, including reading, writing, and modifying text files.
 
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/589db567-e7f6-4bfa-821c-52972dd560fc)
+
